@@ -1,4 +1,4 @@
-package com.msfootballmarket.demo.entity;
+package com.msfootballmarket.demo.entity.dto;
 
 public class PlayerInformationOutput {
     
